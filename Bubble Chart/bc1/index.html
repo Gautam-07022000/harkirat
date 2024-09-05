@@ -1,0 +1,30 @@
+
+<body class="demo-disable-bg-image">
+    <div id="sampleDemo" class="demo-padding demo-container">
+      <div id="componentDemoContent" style="width: 1px; min-width: 100%;">
+        
+          
+          <div id="chart-container">
+            
+            
+            <oj-form-layout max-columns="2">
+              <h6 class="oj-header">My Team's Compensation Trends</h6>
+            </oj-form-layout>
+
+            
+            <oj-chart type="bubble" animation-on-display="auto" animation-on-data-change="auto" hover-behavior="dim"
+              data="[[ $variables.dataProvider ]]" y-axis="{}" x-axis="{}" id="bubbleChart" legend.position="top" >
+              
+            <template slot="itemTemplate" data-oj-as="item">
+              <oj-chart-item
+                x="[[item.data.x]]"
+                y="[[item.data.y]]"
+                z="[[item.data.z]]"
+                group-id="[[ [item.data.id] ]]"
+                series-id="[[item.data.series]]"></oj-chart-item>
+            </template>
+          </oj-chart>
+        </div>
+      </div>
+    </div>
+</body>

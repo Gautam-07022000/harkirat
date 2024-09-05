@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+
+    <div id = "todosDiv">
+        <h1 >Todo List</h1>
+        <div class="todo" id="todo1">
+            <h4 >Take Class</h4> 
+            <button onclick="deleteTodo(1)"> Delete Todo</button>
+        </div>
+
+        <div class="todo" id="todo2" >
+            <h4 >Go to gym</h4> 
+            <button onclick="deleteTodo(2)"> Delete Todo</button>
+        </div>
+
+        <div class="todo" id="todo3" >
+            <h4>Dance</h4> 
+            <button onclick="deleteTodo(3)"> Delete Todo</button>
+        </div>
+        
+    </div>
+    <br>
+    <div>
+        <input type="text" id = "input"></input>
+        <button id = "btn" onclick="addTodo()" >Add todo</button>
+    </div>
+</body>
+<script src = "script.js"></script>
+</html>

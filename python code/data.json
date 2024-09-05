@@ -1,0 +1,992 @@
+[
+    {
+        "id": 0,
+        "series": "High Performers",
+        "x": 1.2,
+        "y": 93,
+        "z": 8
+    },
+    {
+        "id": 1,
+        "series": "Meets Expectations",
+        "x": 4.3,
+        "y": 97,
+        "z": 8
+    },
+    {
+        "id": 2,
+        "series": "Needs Improvement",
+        "x": 1.0,
+        "y": 95,
+        "z": 8
+    },
+    {
+        "id": 3,
+        "series": "High Performers",
+        "x": 3.8,
+        "y": 95,
+        "z": 8
+    },
+    {
+        "id": 4,
+        "series": "Meets Expectations",
+        "x": 3.9,
+        "y": 81,
+        "z": 8
+    },
+    {
+        "id": 5,
+        "series": "Needs Improvement",
+        "x": 4.4,
+        "y": 97,
+        "z": 8
+    },
+    {
+        "id": 6,
+        "series": "High Performers",
+        "x": 3.6,
+        "y": 88,
+        "z": 8
+    },
+    {
+        "id": 7,
+        "series": "Meets Expectations",
+        "x": 4.8,
+        "y": 100,
+        "z": 8
+    },
+    {
+        "id": 8,
+        "series": "Needs Improvement",
+        "x": 2.3,
+        "y": 91,
+        "z": 8
+    },
+    {
+        "id": 9,
+        "series": "High Performers",
+        "x": 4.0,
+        "y": 84,
+        "z": 8
+    },
+    {
+        "id": 10,
+        "series": "Meets Expectations",
+        "x": 1.3,
+        "y": 81,
+        "z": 8
+    },
+    {
+        "id": 11,
+        "series": "Needs Improvement",
+        "x": 1.9,
+        "y": 87,
+        "z": 8
+    },
+    {
+        "id": 12,
+        "series": "High Performers",
+        "x": 3.9,
+        "y": 95,
+        "z": 8
+    },
+    {
+        "id": 13,
+        "series": "Meets Expectations",
+        "x": 4.6,
+        "y": 80,
+        "z": 8
+    },
+    {
+        "id": 14,
+        "series": "Needs Improvement",
+        "x": 4.6,
+        "y": 93,
+        "z": 8
+    },
+    {
+        "id": 15,
+        "series": "High Performers",
+        "x": 2.8,
+        "y": 91,
+        "z": 8
+    },
+    {
+        "id": 16,
+        "series": "Meets Expectations",
+        "x": 4.3,
+        "y": 82,
+        "z": 8
+    },
+    {
+        "id": 17,
+        "series": "Needs Improvement",
+        "x": 4.7,
+        "y": 92,
+        "z": 8
+    },
+    {
+        "id": 18,
+        "series": "High Performers",
+        "x": 3.4,
+        "y": 96,
+        "z": 8
+    },
+    {
+        "id": 19,
+        "series": "Meets Expectations",
+        "x": 1.1,
+        "y": 81,
+        "z": 8
+    },
+    {
+        "id": 20,
+        "series": "Needs Improvement",
+        "x": 4.6,
+        "y": 89,
+        "z": 8
+    },
+    {
+        "id": 21,
+        "series": "High Performers",
+        "x": 4.5,
+        "y": 94,
+        "z": 8
+    },
+    {
+        "id": 22,
+        "series": "Meets Expectations",
+        "x": 1.8,
+        "y": 85,
+        "z": 8
+    },
+    {
+        "id": 23,
+        "series": "Needs Improvement",
+        "x": 1.9,
+        "y": 92,
+        "z": 8
+    },
+    {
+        "id": 24,
+        "series": "High Performers",
+        "x": 3.0,
+        "y": 96,
+        "z": 8
+    },
+    {
+        "id": 25,
+        "series": "Meets Expectations",
+        "x": 1.3,
+        "y": 81,
+        "z": 8
+    },
+    {
+        "id": 26,
+        "series": "Needs Improvement",
+        "x": 2.1,
+        "y": 97,
+        "z": 8
+    },
+    {
+        "id": 27,
+        "series": "High Performers",
+        "x": 2.2,
+        "y": 87,
+        "z": 8
+    },
+    {
+        "id": 28,
+        "series": "Meets Expectations",
+        "x": 3.9,
+        "y": 82,
+        "z": 8
+    },
+    {
+        "id": 29,
+        "series": "Needs Improvement",
+        "x": 3.0,
+        "y": 88,
+        "z": 8
+    },
+    {
+        "id": 30,
+        "series": "High Performers",
+        "x": 2.7,
+        "y": 98,
+        "z": 8
+    },
+    {
+        "id": 31,
+        "series": "Meets Expectations",
+        "x": 5.0,
+        "y": 97,
+        "z": 8
+    },
+    {
+        "id": 32,
+        "series": "Needs Improvement",
+        "x": 4.7,
+        "y": 100,
+        "z": 8
+    },
+    {
+        "id": 33,
+        "series": "High Performers",
+        "x": 2.5,
+        "y": 86,
+        "z": 8
+    },
+    {
+        "id": 34,
+        "series": "Meets Expectations",
+        "x": 1.5,
+        "y": 95,
+        "z": 8
+    },
+    {
+        "id": 35,
+        "series": "Needs Improvement",
+        "x": 2.4,
+        "y": 100,
+        "z": 8
+    },
+    {
+        "id": 36,
+        "series": "High Performers",
+        "x": 3.3,
+        "y": 100,
+        "z": 8
+    },
+    {
+        "id": 37,
+        "series": "Meets Expectations",
+        "x": 3.1,
+        "y": 84,
+        "z": 8
+    },
+    {
+        "id": 38,
+        "series": "Needs Improvement",
+        "x": 1.8,
+        "y": 83,
+        "z": 8
+    },
+    {
+        "id": 39,
+        "series": "High Performers",
+        "x": 4.3,
+        "y": 90,
+        "z": 8
+    },
+    {
+        "id": 40,
+        "series": "Meets Expectations",
+        "x": 4.5,
+        "y": 83,
+        "z": 8
+    },
+    {
+        "id": 41,
+        "series": "Needs Improvement",
+        "x": 2.1,
+        "y": 98,
+        "z": 8
+    },
+    {
+        "id": 42,
+        "series": "High Performers",
+        "x": 2.2,
+        "y": 96,
+        "z": 8
+    },
+    {
+        "id": 43,
+        "series": "Meets Expectations",
+        "x": 2.7,
+        "y": 98,
+        "z": 8
+    },
+    {
+        "id": 44,
+        "series": "Needs Improvement",
+        "x": 1.6,
+        "y": 82,
+        "z": 8
+    },
+    {
+        "id": 45,
+        "series": "High Performers",
+        "x": 3.5,
+        "y": 81,
+        "z": 8
+    },
+    {
+        "id": 46,
+        "series": "Meets Expectations",
+        "x": 3.5,
+        "y": 89,
+        "z": 8
+    },
+    {
+        "id": 47,
+        "series": "Needs Improvement",
+        "x": 4.3,
+        "y": 100,
+        "z": 8
+    },
+    {
+        "id": 48,
+        "series": "High Performers",
+        "x": 4.0,
+        "y": 96,
+        "z": 8
+    },
+    {
+        "id": 49,
+        "series": "Meets Expectations",
+        "x": 4.4,
+        "y": 82,
+        "z": 8
+    },
+    {
+        "id": 50,
+        "series": "Needs Improvement",
+        "x": 1.9,
+        "y": 85,
+        "z": 8
+    },
+    {
+        "id": 51,
+        "series": "High Performers",
+        "x": 4.4,
+        "y": 88,
+        "z": 8
+    },
+    {
+        "id": 52,
+        "series": "Meets Expectations",
+        "x": 2.2,
+        "y": 80,
+        "z": 8
+    },
+    {
+        "id": 53,
+        "series": "Needs Improvement",
+        "x": 1.1,
+        "y": 86,
+        "z": 8
+    },
+    {
+        "id": 54,
+        "series": "High Performers",
+        "x": 3.6,
+        "y": 92,
+        "z": 8
+    },
+    {
+        "id": 55,
+        "series": "Meets Expectations",
+        "x": 1.9,
+        "y": 92,
+        "z": 8
+    },
+    {
+        "id": 56,
+        "series": "Needs Improvement",
+        "x": 2.3,
+        "y": 91,
+        "z": 8
+    },
+    {
+        "id": 57,
+        "series": "High Performers",
+        "x": 4.7,
+        "y": 95,
+        "z": 8
+    },
+    {
+        "id": 58,
+        "series": "Meets Expectations",
+        "x": 3.5,
+        "y": 89,
+        "z": 8
+    },
+    {
+        "id": 59,
+        "series": "Needs Improvement",
+        "x": 4.8,
+        "y": 89,
+        "z": 8
+    },
+    {
+        "id": 60,
+        "series": "High Performers",
+        "x": 4.3,
+        "y": 80,
+        "z": 8
+    },
+    {
+        "id": 61,
+        "series": "Meets Expectations",
+        "x": 2.0,
+        "y": 82,
+        "z": 8
+    },
+    {
+        "id": 62,
+        "series": "Needs Improvement",
+        "x": 4.2,
+        "y": 81,
+        "z": 8
+    },
+    {
+        "id": 63,
+        "series": "High Performers",
+        "x": 4.2,
+        "y": 85,
+        "z": 8
+    },
+    {
+        "id": 64,
+        "series": "Meets Expectations",
+        "x": 4.0,
+        "y": 93,
+        "z": 8
+    },
+    {
+        "id": 65,
+        "series": "Needs Improvement",
+        "x": 2.6,
+        "y": 89,
+        "z": 8
+    },
+    {
+        "id": 66,
+        "series": "High Performers",
+        "x": 4.8,
+        "y": 81,
+        "z": 8
+    },
+    {
+        "id": 67,
+        "series": "Meets Expectations",
+        "x": 4.9,
+        "y": 86,
+        "z": 8
+    },
+    {
+        "id": 68,
+        "series": "Needs Improvement",
+        "x": 2.4,
+        "y": 96,
+        "z": 8
+    },
+    {
+        "id": 69,
+        "series": "High Performers",
+        "x": 2.1,
+        "y": 85,
+        "z": 8
+    },
+    {
+        "id": 70,
+        "series": "Meets Expectations",
+        "x": 3.0,
+        "y": 97,
+        "z": 8
+    },
+    {
+        "id": 71,
+        "series": "Needs Improvement",
+        "x": 3.0,
+        "y": 95,
+        "z": 8
+    },
+    {
+        "id": 72,
+        "series": "High Performers",
+        "x": 1.1,
+        "y": 86,
+        "z": 8
+    },
+    {
+        "id": 73,
+        "series": "Meets Expectations",
+        "x": 3.1,
+        "y": 91,
+        "z": 8
+    },
+    {
+        "id": 74,
+        "series": "Needs Improvement",
+        "x": 1.1,
+        "y": 97,
+        "z": 8
+    },
+    {
+        "id": 75,
+        "series": "High Performers",
+        "x": 2.9,
+        "y": 94,
+        "z": 8
+    },
+    {
+        "id": 76,
+        "series": "Meets Expectations",
+        "x": 2.3,
+        "y": 80,
+        "z": 8
+    },
+    {
+        "id": 77,
+        "series": "Needs Improvement",
+        "x": 1.4,
+        "y": 96,
+        "z": 8
+    },
+    {
+        "id": 78,
+        "series": "High Performers",
+        "x": 1.7,
+        "y": 93,
+        "z": 8
+    },
+    {
+        "id": 79,
+        "series": "Meets Expectations",
+        "x": 4.9,
+        "y": 96,
+        "z": 8
+    },
+    {
+        "id": 80,
+        "series": "Needs Improvement",
+        "x": 5.0,
+        "y": 90,
+        "z": 8
+    },
+    {
+        "id": 81,
+        "series": "High Performers",
+        "x": 1.8,
+        "y": 85,
+        "z": 8
+    },
+    {
+        "id": 82,
+        "series": "Meets Expectations",
+        "x": 1.9,
+        "y": 81,
+        "z": 8
+    },
+    {
+        "id": 83,
+        "series": "Needs Improvement",
+        "x": 2.3,
+        "y": 81,
+        "z": 8
+    },
+    {
+        "id": 84,
+        "series": "High Performers",
+        "x": 4.9,
+        "y": 85,
+        "z": 8
+    },
+    {
+        "id": 85,
+        "series": "Meets Expectations",
+        "x": 2.5,
+        "y": 85,
+        "z": 8
+    },
+    {
+        "id": 86,
+        "series": "Needs Improvement",
+        "x": 3.6,
+        "y": 81,
+        "z": 8
+    },
+    {
+        "id": 87,
+        "series": "High Performers",
+        "x": 3.1,
+        "y": 93,
+        "z": 8
+    },
+    {
+        "id": 88,
+        "series": "Meets Expectations",
+        "x": 4.3,
+        "y": 84,
+        "z": 8
+    },
+    {
+        "id": 89,
+        "series": "Needs Improvement",
+        "x": 3.2,
+        "y": 93,
+        "z": 8
+    },
+    {
+        "id": 90,
+        "series": "High Performers",
+        "x": 3.8,
+        "y": 87,
+        "z": 8
+    },
+    {
+        "id": 91,
+        "series": "Meets Expectations",
+        "x": 4.4,
+        "y": 83,
+        "z": 8
+    },
+    {
+        "id": 92,
+        "series": "Needs Improvement",
+        "x": 1.2,
+        "y": 87,
+        "z": 8
+    },
+    {
+        "id": 93,
+        "series": "High Performers",
+        "x": 2.2,
+        "y": 91,
+        "z": 8
+    },
+    {
+        "id": 94,
+        "series": "Meets Expectations",
+        "x": 4.0,
+        "y": 88,
+        "z": 8
+    },
+    {
+        "id": 95,
+        "series": "Needs Improvement",
+        "x": 2.7,
+        "y": 99,
+        "z": 8
+    },
+    {
+        "id": 96,
+        "series": "High Performers",
+        "x": 1.5,
+        "y": 81,
+        "z": 8
+    },
+    {
+        "id": 97,
+        "series": "Meets Expectations",
+        "x": 5.0,
+        "y": 95,
+        "z": 8
+    },
+    {
+        "id": 98,
+        "series": "Needs Improvement",
+        "x": 2.0,
+        "y": 95,
+        "z": 8
+    },
+    {
+        "id": 99,
+        "series": "High Performers",
+        "x": 1.1,
+        "y": 88,
+        "z": 8
+    },
+  {
+        "id": 100,
+        "series": "High Performers",
+        "x": 2.3,
+        "y": 103,
+        "z": 8
+    },
+    {
+        "id": 101,
+        "series": "Meets Expectations",
+        "x": 2.0,
+        "y": 104,
+        "z": 8
+    },
+    {
+        "id": 102,
+        "series": "Needs Improvement",
+        "x": 2.4,
+        "y": 110,
+        "z": 8
+    },
+    {
+        "id": 103,
+        "series": "High Performers",
+        "x": 1.7,
+        "y": 100,
+        "z": 8
+    },
+    {
+        "id": 104,
+        "series": "Meets Expectations",
+        "x": 2.7,
+        "y": 109,
+        "z": 8
+    },
+    {
+        "id": 105,
+        "series": "Needs Improvement",
+        "x": 1.4,
+        "y": 102,
+        "z": 8
+    },
+    {
+        "id": 106,
+        "series": "High Performers",
+        "x": 1.5,
+        "y": 109,
+        "z": 8
+    },
+    {
+        "id": 107,
+        "series": "Meets Expectations",
+        "x": 2.0,
+        "y": 106,
+        "z": 8
+    },
+    {
+        "id": 108,
+        "series": "Needs Improvement",
+        "x": 1.5,
+        "y": 101,
+        "z": 8
+    },
+    {
+        "id": 109,
+        "series": "High Performers",
+        "x": 2.5,
+        "y": 109,
+        "z": 8
+    },
+  
+    {
+        "id": 110,
+        "series": "High Performers",
+        "x": 5.3,
+        "y": 81,
+        "z": 8
+    },
+    {
+        "id": 111,
+        "series": "Meets Expectations",
+        "x": 6.7,
+        "y": 75,
+        "z": 8
+    },
+    {
+        "id": 112,
+        "series": "Needs Improvement",
+        "x": 5.2,
+        "y": 85,
+        "z": 8
+    },
+    {
+        "id": 113,
+        "series": "High Performers",
+        "x": 6.4,
+        "y": 81,
+        "z": 8
+    },
+    {
+        "id": 114,
+        "series": "Meets Expectations",
+        "x": 6.4,
+        "y": 78,
+        "z": 8
+    },
+    {
+        "id": 115,
+        "series": "Needs Improvement",
+        "x": 6.8,
+        "y": 76,
+        "z": 8
+    },
+    {
+        "id": 116,
+        "series": "High Performers",
+        "x": 7.9,
+        "y": 85,
+        "z": 8
+    },
+    {
+        "id": 117,
+        "series": "Meets Expectations",
+        "x": 6.3,
+        "y": 82,
+        "z": 8
+    },
+    {
+        "id": 118,
+        "series": "Needs Improvement",
+        "x": 5.7,
+        "y": 77,
+        "z": 8
+    },
+    {
+        "id": 119,
+        "series": "High Performers",
+        "x": 5.2,
+        "y": 81,
+        "z": 8
+    },
+    {
+        "id": 120,
+        "series": "Meets Expectations",
+        "x": 7.3,
+        "y": 81,
+        "z": 8
+    },
+    {
+        "id": 121,
+        "series": "Needs Improvement",
+        "x": 5.7,
+        "y": 76,
+        "z": 8
+    },
+    {
+        "id": 122,
+        "series": "High Performers",
+        "x": 5.0,
+        "y": 80,
+        "z": 8
+    },
+    {
+        "id": 123,
+        "series": "Meets Expectations",
+        "x": 7.2,
+        "y": 81,
+        "z": 8
+    },
+    {
+        "id": 124,
+        "series": "Needs Improvement",
+        "x": 5.6,
+        "y": 81,
+        "z": 8
+    },
+    {
+        "id": 125,
+        "series": "High Performers",
+        "x": 6.7,
+        "y": 80,
+        "z": 8
+    },
+    {
+        "id": 126,
+        "series": "Meets Expectations",
+        "x": 6.0,
+        "y": 80,
+        "z": 8
+    },
+    {
+        "id": 127,
+        "series": "Needs Improvement",
+        "x": 6.2,
+        "y": 76,
+        "z": 8
+    },
+    {
+        "id": 128,
+        "series": "High Performers",
+        "x": 7.5,
+        "y": 75,
+        "z": 8
+    },
+    {
+        "id": 129,
+        "series": "Meets Expectations",
+        "x": 6.5,
+        "y": 80,
+        "z": 8
+    },
+  {
+        "id": 130,
+        "series": "High Performers",
+        "x": 3.2,
+        "y": 64,
+        "z": 8
+    },
+    {
+        "id": 131,
+        "series": "Meets Expectations",
+        "x": 3.4,
+        "y": 69,
+        "z": 8
+    },
+    {
+        "id": 132,
+        "series": "Needs Improvement",
+        "x": 4.0,
+        "y": 69,
+        "z": 8
+    },
+    {
+        "id": 133,
+        "series": "High Performers",
+        "x": 3.0,
+        "y": 62,
+        "z": 8
+    },
+    {
+        "id": 134,
+        "series": "Meets Expectations",
+        "x": 4.5,
+        "y": 65,
+        "z": 8
+    },
+    {
+        "id": 135,
+        "series": "Needs Improvement",
+        "x": 3.1,
+        "y": 60,
+        "z": 8
+    },
+    {
+        "id": 136,
+        "series": "High Performers",
+        "x": 3.9,
+        "y": 63,
+        "z": 8
+    },
+    {
+        "id": 137,
+        "series": "Meets Expectations",
+        "x": 3.2,
+        "y": 65,
+        "z": 8
+    },
+    {
+        "id": 138,
+        "series": "Needs Improvement",
+        "x": 3.4,
+        "y": 64,
+        "z": 8
+    },
+    {
+        "id": 139,
+        "series": "High Performers",
+        "x": 3.2,
+        "y": 66,
+        "z": 8
+    },
+    {
+        "id": 140,
+        "series": "Meets Expectations",
+        "x": 3.8,
+        "y": 60,
+        "z": 8
+    }
+   
+
+]

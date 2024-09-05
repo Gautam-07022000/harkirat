@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Todos List</h1>
+    <div id = "TodosDiv" class="todo">
+    
+        <div >
+            <h4>1st Todo</h4>
+            <button onclick="deleteTodo(this)">Delete</button>
+        </div>
+
+        <div>
+            <h4>2nd Todo</h4>
+            <button onclick="deleteTodo(this)">Delete</button>
+        </div>
+
+        <div>
+            <h4>3rd Todo</h4>
+            <button onclick="deleteTodo(this)">Delete</button>
+        </div>
+
+        <div>
+            <h4>4th Todo</h4>
+            <button onclick="deleteTodo(this)">Delete</button>
+        </div>
+
+        
+    </div>
+    <br>
+    <div>
+        <input type="text">
+        <button onclick="addTodo(this)"> add</button>
+        <button onclick="deleteTodo('first')"> Delete First Todo</button>
+        <button onclick="deleteTodo('last')"> Delete Last Todo</button>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
